@@ -1,0 +1,313 @@
+
+body{
+    font-family: "Montserrat";
+    color:#23374A;
+}
+
+#home{
+    background: url('vector.png') #E7FCF8;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: fit-content;
+    
+}
+
+.input-group {
+    position: relative;
+    left: 350px;
+    width: 50%;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+
+.container-fluid{
+    padding: 0% 5% 7%;
+}
+
+.navbar-toggler {
+    color: #23374A;
+}
+
+.vector{
+    position: absolute;
+    left: 1000px;
+    top: 353px;
+}
+.main-text{
+    padding-top: 180px;
+    /* margin-left: -50px; */
+}
+.home-text{
+    margin-top: 60px;
+    width: 600px;
+    font-size: 32px;
+    font-family: "Montserrat";
+    font-weight: bold;
+    color:#23374A;
+    font-size: 50px;
+    line-height: 75px;
+}
+
+.features-column {
+    padding: 10% 2%;
+}
+
+.features-columnUpdate {
+    padding: 10% 2%;
+}
+
+.feature-text {
+    text-align: center;
+}
+
+#Update {
+    background-color: #E7FCF8;
+}
+
+.update-texts {
+    padding-left: 50px;
+}
+
+
+.card-box {
+    box-shadow: 0px 0px 12px -3px rgb(156, 218, 206);
+    text-align: center;
+    padding: 7em;
+    border-radius: 15px;
+    overflow: hidden;
+    transform: translateY(0px);
+    transition: 0.5s;
+    padding-bottom: 300px;
+}
+
+.card-boxUpdate {
+    background-color: #0ECFAC;
+    box-shadow: 0px 0px 12px -3px rgb(156, 218, 206);
+    text-align: center;
+    padding: 7em;
+    border-radius: 15px;
+    overflow: hidden;
+    transform: translateY(0px);
+    transition: 0.5s;
+    padding-bottom: 300px;
+}
+
+h3 {
+    font-weight: bold;
+    color: white;
+}
+
+.featureCard-text {
+    color: white;
+}
+
+/* Added this guy newly to know if it removes the marks i see */
+/* .card-header {
+    margin-bottom: 0;
+    background-color: rgb(0, 0, .03);
+    border-bottom: 1px solid rgb(0, 0, .125)
+} */
+
+#footer {
+    padding-top: 100px;
+}
+.btn-default {
+    background-color: #0ECFAC;
+    color: #ffffff;
+}
+
+p{
+    font-weight:normal;
+    font-size: 22px;
+    width: 50%;
+    line-height: 30px;
+    color: #23374A;
+}
+
+h6{
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: #23374A;
+}
+
+h5{
+    
+    line-height: 28px;
+    width: 80%;
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: #23374A;
+}
+
+.nav-items {
+    margin-left: 18px;
+   
+}
+
+.active, .nav-items:hover {
+    color: white;
+}
+
+.navbar-button{
+    margin-left: 18px;
+   
+
+}
+.feature-bckg{
+    background-color: #ffffff;
+}
+
+h4{
+    color: #23374A;
+    font-family: "Montserrat";
+    font-weight: bolder;
+    line-height: 45px;
+}
+
+featureMainText {
+    padding-bottom: 70px;
+    position: relative;
+    width: 600px;
+    color: #23374A;
+    font-family: "Montserrat";
+    font-weight: bolder;
+    line-height: 45px;
+    /* text-align: center; */
+    padding-top: 70px;
+    /* left: 350px; */
+}
+
+.right-text{
+    margin-top: 100px;
+    /* width: 500%;
+    padding-left: 100px; */
+    line-height: 36px;
+}
+
+.left-text{
+    /* padding-right: 100px; */
+    margin-top: 100px;
+    /* width: 50%;  */
+    line-height: 36px;
+}
+
+.card-img{
+    margin-top: 80px;
+    text-align: center;
+    padding-top: 50px;
+    width: 300px;
+    height: 300px;
+    padding-bottom: 50px;
+    
+}
+
+.card-img-top {
+    padding-top: 20px;
+    padding-left: 50px; 
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+.row {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#updates {
+    background-color: #E7FCF8;
+    text-align: center;
+    height: 800px;
+    
+}
+.update-img{
+    text-align: center;
+    padding-top: -20px;
+    width: 100px;
+    height: 90px;
+}
+
+.gazette {
+    position: absolute;
+    left: 250px;
+    
+}
+.trophy {
+    position: absolute;
+    left: 700px;
+}
+
+.article{
+    color: #ffff;
+}
+
+.challenges{
+    color: #ffff;
+}
+.update-card{
+    background-color:#0ECFAC;
+    box-shadow: 0px 0px 33px -3px #E2F8CC;
+    margin: 15px 0;
+    margin-bottom: 100px;
+    width: 400px;
+    height: 450px;
+    text-align: center;
+    margin-top: 100px;
+    padding: 7em;
+    border-radius: 15px;
+    overflow: hidden;
+    transform: translateY(0px);
+    transition: 0.5s;
+    padding-bottom: 100px;
+}
+
+
+
+h2 {
+    padding-top:70px;
+    font-weight: bold;
+    
+}
+
+.navbar {
+    width: 90%;
+    background-color: #E7FCF8;
+    z-index: 1;
+    position: fixed;
+
+}
+
+@media only screen and (max-width : 768px) {
+
+    .home-text {
+        padding-top: 60px;
+        width: 85%;
+        margin-left: -106px;
+        font-weight: bold;
+        font-size: 35px;
+        line-height: 42px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-button{
+        margin-left: 2px;
+        
+    }
+
+    h5 {
+        margin-left: -106px;
+        padding-left: -106px;
+    }
+
+    .left-text {
+        font-size: 18;
+        position: relative;
+
+    }
+    .image2 {
+        font-size: 18px;
+        position: relative;
+        top: 50px;
+    }
+}
